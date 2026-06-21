@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orangeshaggy_phantom.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phantom_down0000" x="0" y="3259" width="764" height="626" pivotX="359.35" pivotY="414.9"/>
+	<SubTexture name="phantom_down0001" x="764" y="3259" width="764" height="626"/>
+	<SubTexture name="phantom_down0002" x="1528" y="3259" width="764" height="626"/>
+	<SubTexture name="phantom_down0003" x="2292" y="3706" width="764" height="626"/>
+	<SubTexture name="phantom_down0004" x="3056" y="3706" width="764" height="626"/>
+	<SubTexture name="phantom_down0005" x="3820" y="3706" width="764" height="626"/>
+	<SubTexture name="phantom_down0006" x="4584" y="3706" width="764" height="626"/>
+	<SubTexture name="phantom_down0007" x="5348" y="3706" width="764" height="626"/>
+	<SubTexture name="phantom_down0008" x="0" y="3885" width="764" height="626"/>
+	<SubTexture name="phantom_down0009" x="0" y="3885" width="764" height="626"/>
+	<SubTexture name="phantom_down0010" x="0" y="3885" width="764" height="626"/>
+	<SubTexture name="phantom_down0011" x="0" y="3885" width="764" height="626"/>
+	<SubTexture name="phantom_down0012" x="0" y="3885" width="764" height="626"/>
+	<SubTexture name="phantom_idle0000" x="2880" y="2128" width="720" height="789" pivotX="253.1" pivotY="604.4"/>
+	<SubTexture name="phantom_idle0001" x="3600" y="2128" width="720" height="789"/>
+	<SubTexture name="phantom_idle0002" x="4320" y="2128" width="720" height="789"/>
+	<SubTexture name="phantom_idle0003" x="5040" y="2128" width="720" height="789"/>
+	<SubTexture name="phantom_idle0004" x="5760" y="2128" width="720" height="789"/>
+	<SubTexture name="phantom_idle0005" x="6480" y="2432" width="720" height="789"/>
+	<SubTexture name="phantom_idle0006" x="7200" y="2432" width="720" height="789"/>
+	<SubTexture name="phantom_idle0007" x="0" y="2470" width="720" height="789"/>
+	<SubTexture name="phantom_idle0008" x="720" y="2470" width="720" height="789"/>
+	<SubTexture name="phantom_idle0009" x="1440" y="2470" width="720" height="789"/>
+	<SubTexture name="phantom_idle0010" x="2160" y="2470" width="720" height="789"/>
+	<SubTexture name="phantom_idle0011" x="2880" y="2917" width="720" height="789"/>
+	<SubTexture name="phantom_idle0012" x="3600" y="2917" width="720" height="789"/>
+	<SubTexture name="phantom_idle0013" x="4320" y="2917" width="720" height="789"/>
+	<SubTexture name="phantom_idle0014" x="5040" y="2917" width="720" height="789"/>
+	<SubTexture name="phantom_idle0015" x="5760" y="2917" width="720" height="789"/>
+	<SubTexture name="phantom_idle0016" x="6480" y="3221" width="720" height="789"/>
+	<SubTexture name="phantom_idle0017" x="7200" y="3221" width="720" height="789"/>
+	<SubTexture name="phantom_left0000" x="0" y="0" width="1022" height="722" pivotX="607.65" pivotY="540.85"/>
+	<SubTexture name="phantom_left0001" x="1022" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0002" x="2044" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0003" x="3066" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0004" x="4088" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0005" x="5110" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0006" x="6132" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0007" x="7154" y="0" width="1022" height="722"/>
+	<SubTexture name="phantom_left0008" x="0" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0009" x="1022" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0010" x="2044" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0011" x="3066" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0012" x="4088" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0013" x="5110" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0014" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0015" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0016" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0017" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0018" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_left0019" x="6132" y="722" width="1022" height="722"/>
+	<SubTexture name="phantom_right0000" x="2880" y="1444" width="852" height="684" pivotX="283.55" pivotY="510.05"/>
+	<SubTexture name="phantom_right0001" x="3732" y="1444" width="852" height="684"/>
+	<SubTexture name="phantom_right0002" x="4584" y="1444" width="852" height="684"/>
+	<SubTexture name="phantom_right0003" x="5436" y="1444" width="852" height="684"/>
+	<SubTexture name="phantom_right0004" x="6288" y="1444" width="852" height="684"/>
+	<SubTexture name="phantom_right0005" x="6288" y="1444" width="852" height="684"/>
+	<SubTexture name="phantom_right0006" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0007" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0008" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0009" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0010" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0011" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0012" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0013" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0014" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0015" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0016" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0017" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0018" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_right0019" x="7140" y="1748" width="852" height="684"/>
+	<SubTexture name="phantom_up0000" x="7154" y="722" width="576" height="1026" pivotX="335.15" pivotY="852"/>
+	<SubTexture name="phantom_up0001" x="0" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0002" x="576" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0003" x="1152" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0004" x="1728" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0005" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0006" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0007" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0008" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0009" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0010" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0011" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0012" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0013" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0014" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0015" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0016" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0017" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0018" x="2304" y="1444" width="576" height="1026"/>
+	<SubTexture name="phantom_up0019" x="2304" y="1444" width="576" height="1026"/>
+</TextureAtlas>
